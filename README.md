@@ -1,6 +1,7 @@
 # Nombre: Oscar Yair Núñez Hernández
 
 
+
  
 ## Diseño de Videojuegos:
 
@@ -33,4 +34,11 @@ Profesor: Rodrigo Saco
 En esta materia aprendemos el proceso de realizar un videojuego desde cero, desde la conceptualización hasta la producción.
 
 <br>
+
+
+## Sistemas Operativos y Redes
+
+Profesor: Jonathan Miranda
+
+En esta materia aprendemos sobre la red y sobre el uso de Git.
 
