@@ -1,5 +1,6 @@
 # Nombre: Oscar Yair Núñez Hernández
 
+
  
 ## Diseño de Videojuegos:
 
@@ -22,3 +23,14 @@ En esta materia aprendemos a usar Photoshop e Ilustrator, así como conceptos b�
 Profesor: Fernando García
 
 En esta materia aprendemos python y flask, para crear páginas web. 
+
+<br>
+
+## Proyecto Semestral II: Desarrollo de aplicaciones interactivas
+
+Profesor: Rodrigo Saco
+
+En esta materia aprendemos el proceso de realizar un videojuego desde cero, desde la conceptualización hasta la producción.
+
+<br>
+
